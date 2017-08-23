@@ -2,7 +2,7 @@ package com.question;
 
 
 /**
- * 
+ * 双向链表-给定一个name和一个dlink找到这个对应的节点并删除
  * @author YX
  *
  */
